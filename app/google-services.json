@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495986180915",
+    "project_id": "att-tap-21-10",
+    "storage_bucket": "att-tap-21-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495986180915:android:544309af161b25e4b77446",
+        "android_client_info": {
+          "package_name": "com.example.att_tap_21_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6O0MV3tMeNCr_NbwsFpk6JN1dt0pELm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
